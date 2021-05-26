@@ -1,0 +1,23 @@
+#paginacao{
+  width: 160px;
+  padding: 10px;
+  display: inline-flex;
+  border-color: #BACBF5;
+}
+
+div {
+  margin-left: auto;
+  margin-right: auto;
+  width: 30px;
+  border: 1px solid #D3D3D3;
+  float: left;
+  text-align: center;
+  color: #337DF5;
+  border-radius: 3px;
+}
+a:link{
+  text-decoration:none; 
+}
+#paginacao div:hover {
+  background-color: rgb(151, 132, 236);
+}
